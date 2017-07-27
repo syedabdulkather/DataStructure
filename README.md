@@ -1,1 +1,1 @@
-# DataStructure and Algorithm Sample
+# DataStructure and Algorithm
